@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/flipbook_portfolio/static/css/main.7c62c75b.css",
+    "main.js": "/flipbook_portfolio/static/js/main.11410a6f.js",
+    "static/media/반명함.jpg": "/flipbook_portfolio/static/media/반명함.f4ccf50377959b89c124.jpg",
+    "index.html": "/flipbook_portfolio/index.html",
+    "main.7c62c75b.css.map": "/flipbook_portfolio/static/css/main.7c62c75b.css.map",
+    "main.11410a6f.js.map": "/flipbook_portfolio/static/js/main.11410a6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c62c75b.css",
+    "static/js/main.11410a6f.js"
+  ]
+}
